@@ -1,6 +1,6 @@
 # E-Commerce-market
 +  link to demo :-  https://protected-mesa-09949.herokuapp.com/
-## overview 
+## Overview 
 The website allows the users to lookup products descriptions, types, manufacturers… etc. Users
 should be allowed to create an account, add items to their “cart” and search for products. The website should
 initially be hosted on your PCs “local host” and when the site development phase is done, you should host
