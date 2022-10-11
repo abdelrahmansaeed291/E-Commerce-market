@@ -33,7 +33,7 @@ The cart page contains the items that the user previously added using the “add
 A search bar will be displayed in all pages except for the registration and login pages. The search
 will be done using items names only. The search result is either an “item not found” message if the
 item was not available in the database or a list of the items that contain the search keyword in their
-names. The search results should be clickable and they direct you to that specific item’s page.
+names. The search results is clickable and they direct you to that specific item’s page.
 
 ## Technologies used :- 
   + MongoDB
